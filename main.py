@@ -6,7 +6,7 @@ from llama_index.core.llama_pack import download_llama_pack
 from resume_screener_pack.llama_index.packs.resume_screener import ResumeScreenerPack
 
 load_dotenv()
-openai.api_key = 'sk-C6HMVglrw9iNK1bFO3xQrQaNrMzfFZ-BbySpFBckywT3BlbkFJl83p5Izy-e6y4nMdIthxQ2U67jEi8WJhyj62rAp4AA'
+openai.api_key = '<enter_your_key>'
 
 
 
